@@ -4,6 +4,7 @@
 - 🎓 Currently studying at **Curio Software Development in Breda**
 - 🌱 Currently learning: **Python, Java, C#, PHP, Laravel**
 - 🐍 Favorite Language: **Python**
+- 💼 Favorite Tool: **Laravel** 🚀
 - 🇳🇱 From: **The Netherlands**
 - 📫 How to reach me: [info@sadcat.space](mailto:info@sadcat.space)
 - 🌐 My site: [sadcat.space](https://sadcat.space)
