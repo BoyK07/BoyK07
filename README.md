@@ -1,14 +1,30 @@
 # Hello, I'm Boy! 👋
 
-## About Me 📌
-- 🎓 Currently studying at **Curio Software Development in Breda**
-- 🌱 Currently learning: **Python, Java, C#, PHP, Laravel**
-- 🐍 Favorite Language: **Python**
-- 💼 Favorite Tool: **Laravel** 🚀
-- 🇳🇱 From: **The Netherlands**
-- 📫 How to reach me: [info@sadcat.space](mailto:info@sadcat.space)
-- 🌐 My site: [sadcat.space](https://sadcat.space)
+Welcome to my GitHub profile! I'm a passionate software developer currently diving deep into the world of programming at Curio Software Development in Breda. Here's a little more about me:
 
-&nbsp;
+## 🎓 Education
+- Currently studying at **Curio Software Development in Breda**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyK07&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🌱 I’m currently learning
+- **Python, Java, C#, PHP, Laravel**
+
+## 💬 Programming Languages
+- Favorite Native Language: **Python**
+- Favorite Web Language: **PHP**
+
+## 🛠️ Tools & Frameworks
+- Favorite Tool: **Laravel**
+
+## 🌍 Location
+- From: **The Netherlands**
+
+## 📫 How to reach me
+- Email: [info@sadcat.space](mailto:info@sadcat.space)
+
+## 🌐 Visit my website
+- [sadcat.space](https://sadcat.space)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyK07&layout=compact&theme=radical)
+
