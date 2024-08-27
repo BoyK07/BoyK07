@@ -21,9 +21,6 @@ Welcome to my GitHub profile! I'm a passionate software developer currently divi
 ## 📫 How to reach me
 - Email: [info@sadcat.space](mailto:info@sadcat.space)
 
-## 🌐 Visit my website
-- [sadcat.space](https://sadcat.space)
-
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyK07&layout=compact&theme=radical)
