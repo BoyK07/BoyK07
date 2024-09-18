@@ -4,9 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently divi
 
 ## 🎓 Education
 - Currently studying at **Curio Software Development in Breda**
-
-## 🌱 I’m currently learning
-- **Python, Java, C#, PHP, Laravel**
+- Intern at **[Modus Digital](https://www.modus-digital.com/)
 
 ## 💬 Programming Languages
 - Favorite Native Language: **Python**
@@ -24,4 +22,3 @@ Welcome to my GitHub profile! I'm a passionate software developer currently divi
 ---
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoyK07&layout=compact&theme=radical)
-
