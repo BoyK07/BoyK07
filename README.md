@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate software developer currently divi
 
 ## 🎓 Education
 - Currently studying at **Curio Software Development in Breda**
-- Intern at **[Modus Digital](https://www.modus-digital.com/)**
 
 ## 💬 Programming Languages
 - Favorite Native Language: **Python**
